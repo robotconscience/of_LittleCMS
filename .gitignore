@@ -1,0 +1,9 @@
+*.app
+DerivedData
+xcuserdatad
+*.o
+*.plo
+*.Plo
+*.lo
+*.Po
+*.xcworkspace
